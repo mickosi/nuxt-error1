@@ -8,8 +8,8 @@ class Comp extends Vue {
 
     method() { return '' }
 
-    field1 = this.prop //NOT SUPPORT
-    field2 = this.method()//NOT SUPPORT
+    field1 = 'Test1'
+    field2 = 'Test2'
 }
 </script>
 
